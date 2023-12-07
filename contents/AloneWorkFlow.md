@@ -73,7 +73,7 @@ Finally, you should see the most up-to-date code on your main branch in Github!
 <hr>
 Continue Reading:
 
-[[Basic Git Commands](./contents/GitCommand.md)]
-[[Team Work Flow](./contents/TeamWorkFlow.md)]
+[[Basic Git Commands](./GitCommand.md)]
+[[Team Work Flow](./TeamWorkFlow.md)]
 
 [back to main page](../README.md)

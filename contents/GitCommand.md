@@ -90,7 +90,7 @@ This command is to look for branches names. This is default to show all the bran
 
 ### Continue Reading:
 
-[[Alone Work Flow](./contents/AloneWorkFlow.md)]
-[[Team Work Flow](./contents/TeamWorkFlow.md)]
+[[Alone Work Flow](./AloneWorkFlow.md)]
+[[Team Work Flow](./TeamWorkFlow.md)]
 
 [back to main page](../README.md)

@@ -129,7 +129,7 @@ git checkout <branch name>
 <hr>
 Continue Reading:
 
-[[Basic Git Commands](./contents/GitCommand.md)]
-[[Alone Work Flow](./contents/AloneWorkFlow.md)]
+[[Basic Git Commands](./GitCommand.md)]
+[[Alone Work Flow](./AloneWorkFlow.md)]
 
 [back to main page](../README.md)
