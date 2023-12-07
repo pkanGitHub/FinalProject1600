@@ -64,7 +64,7 @@ This command is to look for branches names. This is default to show all the bran
 
 ### Using VSCode Interface
 
-1. To add changes for staging:
+1. **To add changes for staging:**
 
    Click on the `source control` icon. It will display a list of changes you have made in your project. You can add all or just single file.
    Once you click on the `+` button, it will add the change for staging.
@@ -72,17 +72,21 @@ This command is to look for branches names. This is default to show all the bran
    ![SourceControl](/Img/git-add.png)
    ![AddChanges](/Img/git-add2.png)
 
-2. Commit changes:
+2. **Commit changes:**
 
    Here is where you type in your messages for the change you are planning to add to remote repository.
 
    ![CommitChanges](/Img/git-commit.png)
 
-3. Push changes:
+3. **Push changes:**
 
    To push changes, go to the `...` on the top right corner and find `Push` option. Once you click on it, the file that you added to `staged changes` will be saved onto your repository in Github.
 
    ![Push](/Img/git-push.png)
+
+4. **Voila ~**
+
+   ![github](/Img/github-page.png)
 
 ### Continue Reading:
 
