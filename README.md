@@ -2,11 +2,9 @@
 
 #### By Phyllis Kan
 
-### A brief summary of the purpose and content of the tutorial.
+_GitHub serves as a collaborative hub for software development, allowing teams and individuals to efficiently coordinate and monitor changes in their codebase. Functioning as a distributed version control system, it enables developers to work on projects simultaneously while maintaining records of modifications. GitHub offers a centralized platform for issue tracking, project management, and documentation, thereby augmenting overall project organization and transparency. This amalgamation of features contributes to streamlined collaboration and effective management throughout the development process._
 
-This tutorial is to show the importance using Github to help them develop their project.
-
-#### This tutorial is for developer looking to work on a project with Github for version control or to work on a project collaboratively with a group of teammates.
+#### This tutorial is for developers who are looking to work on a project with Github for version control or to work on a project collaboratively with a group of teammates.
 
 ## Table of Contents
 
